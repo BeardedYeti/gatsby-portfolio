@@ -311,6 +311,48 @@
         "contentDigest": "8a6cd563713cdeaa119b7d86a5e9a59e",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /page-2/": {
+      "layout": null,
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "D:/lordd/Repositories/gatsby-portfolio/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "updatedAt": 1517867879651,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "D:/lordd/Repositories/gatsby-portfolio/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f3fe51b0dfbb033348e3dd7ac1f96050",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /counter/": {
+      "layout": null,
+      "jsonName": "counter.json",
+      "internalComponentName": "ComponentCounter",
+      "path": "/counter/",
+      "component": "D:/lordd/Repositories/gatsby-portfolio/src/pages/counter.js",
+      "componentChunkName": "component---src-pages-counter-js",
+      "context": {},
+      "updatedAt": 1517868046291,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "D:/lordd/Repositories/gatsby-portfolio/src/pages/counter.js",
+      "id": "SitePage /counter/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3b87a9574832bba9e978fded24149157",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
