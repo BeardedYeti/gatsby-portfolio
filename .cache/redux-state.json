@@ -5,24 +5,24 @@
       "jsonName": "dev-404-page.json",
       "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "D:/lordd/Repositories/gatsby-portfolio/.cache/dev-404-page.js",
+      "component": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1518091608085,
+      "updatedAt": 1518118681376,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "D:/lordd/Repositories/gatsby-portfolio/.cache/dev-404-page.js",
+      "componentPath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91c15a9e1a9963adc84dd0826a6f7ce",
+        "contentDigest": "46fa271f8bc7c7ecfb48b72deb3fd2bc",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin dev-404-page": {
-      "resolve": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "resolve": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "id": "Plugin dev-404-page",
       "name": "dev-404-page",
       "version": "1.0.0",
@@ -32,7 +32,7 @@
       "nodeAPIs": [
         "createPagesStatefully"
       ],
-      "pluginFilepath": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "pluginFilepath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/dev-404-page",
       "packageJson": {
         "name": "dev-404-page",
         "description": "Internal plugin to add a 404 page in development with helpful information",
@@ -49,13 +49,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "bdc9de156920b4368de0f03626e04ee5",
+        "contentDigest": "a47f6cc4cdc387620749d89a605a7996",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-page-creator": {
-      "resolve": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "resolve": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "id": "Plugin component-page-creator",
       "name": "component-page-creator",
       "version": "1.0.0",
@@ -65,7 +65,7 @@
       "nodeAPIs": [
         "createPagesStatefully"
       ],
-      "pluginFilepath": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/component-page-creator",
+      "pluginFilepath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/component-page-creator",
       "packageJson": {
         "name": "component-page-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/pages",
@@ -86,13 +86,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5ac6590299c346328f0fc30ebae68724",
+        "contentDigest": "6ca1982d84f46b3809fa52fbee6f14d7",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin component-layout-creator": {
-      "resolve": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "resolve": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "id": "Plugin component-layout-creator",
       "name": "component-layout-creator",
       "version": "1.0.0",
@@ -102,7 +102,7 @@
       "nodeAPIs": [
         "createLayouts"
       ],
-      "pluginFilepath": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
+      "pluginFilepath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/component-layout-creator",
       "packageJson": {
         "name": "component-layout-creator",
         "description": "An internal Gatsby plugin that creates pages from component files in src/layouts",
@@ -123,13 +123,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "4de9e91282032d12674a15edcfc1625a",
+        "contentDigest": "5f918d75227d3b298d4a916f29cb88c6",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin internal-data-bridge": {
-      "resolve": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "resolve": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "id": "Plugin internal-data-bridge",
       "name": "internal-data-bridge",
       "version": "1.0.0",
@@ -140,7 +140,7 @@
         "sourceNodes",
         "onCreatePage"
       ],
-      "pluginFilepath": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "pluginFilepath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
       "packageJson": {
         "name": "internal-data-bridge",
         "description": "An internal Gatsby plugin which creates data nodes from internal data",
@@ -157,13 +157,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d704b57a5f8257b95ddd9a914ae5ee54",
+        "contentDigest": "e8b1fbf7aad2a431d96ba713b22eb957",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin prod-404": {
-      "resolve": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "resolve": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
       "id": "Plugin prod-404",
       "name": "prod-404",
       "version": "1.0.0",
@@ -173,7 +173,7 @@
       "nodeAPIs": [
         "onCreatePage"
       ],
-      "pluginFilepath": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "pluginFilepath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/prod-404",
       "packageJson": {
         "name": "prod-404",
         "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
@@ -190,13 +190,13 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a569baefd61661ace93edc785b92ca9a",
+        "contentDigest": "7a26e45f8a1d70a5f13889a9e76fcdf1",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin query-runner": {
-      "resolve": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "resolve": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
       "id": "Plugin query-runner",
       "name": "query-runner",
       "version": "1.0.0",
@@ -207,7 +207,7 @@
         "onCreatePage",
         "onCreateLayout"
       ],
-      "pluginFilepath": "D:/lordd/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "pluginFilepath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby/dist/internal-plugins/query-runner",
       "packageJson": {
         "name": "query-runner",
         "description": "Internal plugin for running queries",
@@ -224,16 +224,16 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "02a78356164128ca4b1a1492ca49a941",
+        "contentDigest": "480b599553fe80b5b4195fcbe3cba25e",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin gatsby-plugin-typography": {
-      "resolve": "D:/lordd/Repositories/node_modules/gatsby-plugin-typography",
+      "resolve": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby-plugin-typography",
       "id": "Plugin gatsby-plugin-typography",
       "name": "gatsby-plugin-typography",
-      "version": "1.7.10",
+      "version": "1.7.13",
       "pluginOptions": {
         "plugins": [],
         "pathToConfigModule": "src/utils/typography.js"
@@ -241,11 +241,11 @@
       "nodeAPIs": [
         "onPreBootstrap"
       ],
-      "pluginFilepath": "D:/lordd/Repositories/node_modules/gatsby-plugin-typography",
+      "pluginFilepath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/node_modules/gatsby-plugin-typography",
       "packageJson": {
         "name": "gatsby-plugin-typography",
         "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
-        "version": "1.7.10",
+        "version": "1.7.13",
         "main": "index.js",
         "keywords": [
           "gatsby",
@@ -275,20 +275,25 @@
             "version": "^5.0.5"
           }
         ],
-        "peerDependencies": [],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
         "optionalDependecies": [],
         "bundledDependecies": []
       },
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "b02022ec0f13bc9fb2c4f0a5919978da",
+        "contentDigest": "904443b40eefeac20cc6d3d40be4ac9a",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
     },
     "Plugin default-site-plugin": {
-      "resolve": "D:/lordd/Repositories/gatsby-portfolio",
+      "resolve": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
       "version": "8183907ea0d424db9de6000fe9536c7c",
@@ -296,7 +301,7 @@
         "plugins": []
       },
       "nodeAPIs": [],
-      "pluginFilepath": "D:/lordd/Repositories/gatsby-portfolio",
+      "pluginFilepath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio",
       "packageJson": {
         "name": "gatsby-portfolio",
         "description": "Update for my portfolio site using Gatsby and React",
@@ -320,6 +325,10 @@
             "version": "^1.6.34"
           },
           {
+            "name": "gatsby-plugin-typography",
+            "version": "^1.7.13"
+          },
+          {
             "name": "typography-theme-bootstrap",
             "version": "^0.16.7"
           },
@@ -336,7 +345,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0f4cf62800bb5441e82db19e3d843f87",
+        "contentDigest": "6a04c18ab6428f46b7db04e53d0875d5",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -347,12 +356,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-08T12:06:46.212Z",
+      "buildTime": "2018-02-08T19:37:59.365Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "8164cfa37f441442cd45ff475944396a",
+        "contentDigest": "0ec53c5e3021496218f3e02c6039848e",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -362,19 +371,19 @@
       "jsonName": "counter.json",
       "internalComponentName": "ComponentCounter",
       "path": "/counter/",
-      "component": "D:/lordd/Repositories/gatsby-portfolio/src/pages/counter.js",
+      "component": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/src/pages/counter.js",
       "componentChunkName": "component---src-pages-counter-js",
       "context": {},
-      "updatedAt": 1518091608112,
+      "updatedAt": 1518118681464,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "D:/lordd/Repositories/gatsby-portfolio/src/pages/counter.js",
+      "componentPath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/src/pages/counter.js",
       "id": "SitePage /counter/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "dd80355ef6d70ad9d7bde6c0e70fa0ce",
+        "contentDigest": "e66bea230649bcaa7a219f67f0e4a000",
         "owner": "internal-data-bridge"
       }
     },
@@ -383,19 +392,19 @@
       "jsonName": "index.json",
       "internalComponentName": "ComponentIndex",
       "path": "/",
-      "component": "D:/lordd/Repositories/gatsby-portfolio/src/pages/index.js",
+      "component": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/src/pages/index.js",
       "componentChunkName": "component---src-pages-index-js",
       "context": {},
-      "updatedAt": 1518091608113,
+      "updatedAt": 1518118681465,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "D:/lordd/Repositories/gatsby-portfolio/src/pages/index.js",
+      "componentPath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/src/pages/index.js",
       "id": "SitePage /",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "d1c88533412e2b5932c3548f9197c23e",
+        "contentDigest": "12e8c8559ee6f8d4595df09144ef9925",
         "owner": "internal-data-bridge"
       }
     },
@@ -404,26 +413,26 @@
       "jsonName": "page-2.json",
       "internalComponentName": "ComponentPage2",
       "path": "/page-2/",
-      "component": "D:/lordd/Repositories/gatsby-portfolio/src/pages/page-2.js",
+      "component": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/src/pages/page-2.js",
       "componentChunkName": "component---src-pages-page-2-js",
       "context": {},
-      "updatedAt": 1518091608113,
+      "updatedAt": 1518118681466,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "D:/lordd/Repositories/gatsby-portfolio/src/pages/page-2.js",
+      "componentPath": "C:/Users/colins/Desktop/Repositories/gatsby-portfolio/src/pages/page-2.js",
       "id": "SitePage /page-2/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "971fa913a6258313b8c9ab079f607bc9",
+        "contentDigest": "f4a7056b32c7e4ada0d44b0f77776c5b",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "a8cefce7b776d01edc742b2e646d1403"
+    "PLUGINS_HASH": "0b336630035ef90a8578827677f9ca68"
   },
   "componentDataDependencies": {
     "nodes": {},
