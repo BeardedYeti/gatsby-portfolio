@@ -8,7 +8,7 @@
       "component": "D:/lordd/Repositories/gatsby-portfolio/.cache/dev-404-page.js",
       "componentChunkName": "component---cache-dev-404-page-js",
       "context": {},
-      "updatedAt": 1517867237690,
+      "updatedAt": 1518091608085,
       "pluginCreator___NODE": "Plugin dev-404-page",
       "pluginCreatorId": "Plugin dev-404-page",
       "componentPath": "D:/lordd/Repositories/gatsby-portfolio/.cache/dev-404-page.js",
@@ -17,7 +17,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5f6b7a9f54591fc68348a21d189e5bb6",
+        "contentDigest": "f91c15a9e1a9963adc84dd0826a6f7ce",
         "owner": "internal-data-bridge"
       }
     },
@@ -229,11 +229,69 @@
         "owner": "internal-data-bridge"
       }
     },
+    "Plugin gatsby-plugin-typography": {
+      "resolve": "D:/lordd/Repositories/node_modules/gatsby-plugin-typography",
+      "id": "Plugin gatsby-plugin-typography",
+      "name": "gatsby-plugin-typography",
+      "version": "1.7.10",
+      "pluginOptions": {
+        "plugins": [],
+        "pathToConfigModule": "src/utils/typography.js"
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "pluginFilepath": "D:/lordd/Repositories/node_modules/gatsby-plugin-typography",
+      "packageJson": {
+        "name": "gatsby-plugin-typography",
+        "description": "Gatsby plugin to setup server rendering of Typography.js' CSS",
+        "version": "1.7.10",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "typography",
+          "typography.js"
+        ],
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "react-typography",
+            "version": "^0.16.1"
+          },
+          {
+            "name": "typography",
+            "version": "^0.16.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "b02022ec0f13bc9fb2c4f0a5919978da",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "Plugin default-site-plugin": {
       "resolve": "D:/lordd/Repositories/gatsby-portfolio",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "d41d8cd98f00b204e9800998ecf8427e",
+      "version": "8183907ea0d424db9de6000fe9536c7c",
       "pluginOptions": {
         "plugins": []
       },
@@ -260,6 +318,14 @@
           {
             "name": "gatsby-link",
             "version": "^1.6.34"
+          },
+          {
+            "name": "typography-theme-bootstrap",
+            "version": "^0.16.7"
+          },
+          {
+            "name": "typography-theme-lawton",
+            "version": "^0.15.10"
           }
         ],
         "devDependencies": [],
@@ -270,7 +336,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "45f3a51c823dd70a45952df36e2134a4",
+        "contentDigest": "0f4cf62800bb5441e82db19e3d843f87",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -281,55 +347,13 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-02-05T21:47:14.784Z",
+      "buildTime": "2018-02-08T12:06:46.212Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0bf1a0c81b205b48cc836beba642350b",
+        "contentDigest": "8164cfa37f441442cd45ff475944396a",
         "type": "Site",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": null,
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "D:/lordd/Repositories/gatsby-portfolio/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "updatedAt": 1517867237724,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "D:/lordd/Repositories/gatsby-portfolio/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "8a6cd563713cdeaa119b7d86a5e9a59e",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /page-2/": {
-      "layout": null,
-      "jsonName": "page-2.json",
-      "internalComponentName": "ComponentPage2",
-      "path": "/page-2/",
-      "component": "D:/lordd/Repositories/gatsby-portfolio/src/pages/page-2.js",
-      "componentChunkName": "component---src-pages-page-2-js",
-      "context": {},
-      "updatedAt": 1517867879651,
-      "pluginCreator___NODE": "Plugin component-page-creator",
-      "pluginCreatorId": "Plugin component-page-creator",
-      "componentPath": "D:/lordd/Repositories/gatsby-portfolio/src/pages/page-2.js",
-      "id": "SitePage /page-2/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "f3fe51b0dfbb033348e3dd7ac1f96050",
         "owner": "internal-data-bridge"
       }
     },
@@ -341,7 +365,7 @@
       "component": "D:/lordd/Repositories/gatsby-portfolio/src/pages/counter.js",
       "componentChunkName": "component---src-pages-counter-js",
       "context": {},
-      "updatedAt": 1517868046291,
+      "updatedAt": 1518091608112,
       "pluginCreator___NODE": "Plugin component-page-creator",
       "pluginCreatorId": "Plugin component-page-creator",
       "componentPath": "D:/lordd/Repositories/gatsby-portfolio/src/pages/counter.js",
@@ -350,14 +374,56 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3b87a9574832bba9e978fded24149157",
+        "contentDigest": "dd80355ef6d70ad9d7bde6c0e70fa0ce",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": null,
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "D:/lordd/Repositories/gatsby-portfolio/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "updatedAt": 1518091608113,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "D:/lordd/Repositories/gatsby-portfolio/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d1c88533412e2b5932c3548f9197c23e",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /page-2/": {
+      "layout": null,
+      "jsonName": "page-2.json",
+      "internalComponentName": "ComponentPage2",
+      "path": "/page-2/",
+      "component": "D:/lordd/Repositories/gatsby-portfolio/src/pages/page-2.js",
+      "componentChunkName": "component---src-pages-page-2-js",
+      "context": {},
+      "updatedAt": 1518091608113,
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "D:/lordd/Repositories/gatsby-portfolio/src/pages/page-2.js",
+      "id": "SitePage /page-2/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "971fa913a6258313b8c9ab079f607bc9",
         "owner": "internal-data-bridge"
       }
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "8ef6b2ff1d28e84718c4be656f056180"
+    "PLUGINS_HASH": "a8cefce7b776d01edc742b2e646d1403"
   },
   "componentDataDependencies": {
     "nodes": {},
